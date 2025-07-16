@@ -1,0 +1,12 @@
+{
+  "name": "taskmaster-pro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "concurrently \"node -r cross-spawn npm run dev --prefix backend\" \"node -r cross-spawn npm start --prefix frontend\""
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0",
+    "cross-spawn": "^7.0.6"
+  }
+}
