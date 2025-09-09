@@ -1,4 +1,4 @@
-# TASKMASTER
+# PlanHub
 TaskMasterPro is a task management and productivity tool designed to help individuals and teams efficiently plan, track, and manage their daily tasks. The platform combines a user-friendly React frontend with a powerful Node.js/Express backend, enabling seamless task creation, updating, filtering.
 
 Task Management: Create, edit, delete, and organize tasks by status.
